@@ -1,0 +1,12 @@
+{
+  "name": "babel-polyfill-es3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  },
+  "devDependencies": {
+    "es3ify": "^0.2.2"
+  }
+}
